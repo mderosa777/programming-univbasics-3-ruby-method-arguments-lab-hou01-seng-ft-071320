@@ -1,7 +1,7 @@
-def introduction (name)
+def introduction_2 (name)
   puts "Hi, my name is #{name}."
 end
-introduction,name
+introduction_2,name
   
   
   
