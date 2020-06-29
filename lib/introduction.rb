@@ -3,7 +3,7 @@ def introduction (name)
 end
 introduction("megan")
 
-introduction_with_language(name,language)
+def introduction_with_language(name,language)
 puts"hi, my name is #{name} and I am learning to program in the #{language}."
 end
 introduction_with_language("Megan","Javascript")
